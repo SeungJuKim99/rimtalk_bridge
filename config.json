@@ -1,0 +1,6 @@
+{
+  "port": 8765,
+  "model": "haiku",
+  "concurrency": 2,
+  "timeout": 120
+}
